@@ -1,3 +1,6 @@
+# Demo (click for full video)
+[![IMAGE ALT TEXT HERE](https://github.com/antoinedang/MyTrainer/assets/25635487/79e94593-3f9b-402a-bc44-99986c907927)](https://www.youtube.com/watch?v=1y-ay74SZjs&ab_channel=TeamAUV)
+
 # Learn new dances, sports, or stretching techniques in a few clicks
 Powered by MediaPipe, our website detects, aligns and overlays the user's skeleton onto a training video, giving visual feedback on how accurately the user is mimicking the trainer. You can upload a .mp4 file or select from some pre-loaded videos to start training. A perfect application for fans of yoga, tai-chi, dancing, or any sport where body part positioning is very important.
 
